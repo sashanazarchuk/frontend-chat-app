@@ -71,7 +71,7 @@ export class ChatComponent implements OnInit {
     this.chatService.clearHistory().subscribe({
       next: () => {
         console.log('Chat history cleared successfully');
-        window.location.reload();
+        this.messages = [];
       },
       error: (error) => {
         console.error('Error while clearing chat history:', error);
