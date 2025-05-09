@@ -6,7 +6,7 @@ Sentiment analysis results (positive/negative/neutral) are visualized with emoji
 
 ## 🌐 Live Demo
 
-[Click here to open deployed Angular app](https://your-angular-app.azurestaticapps.net)  
+[Click here to open deployed Angular app](https://salmon-sand-05cbce20f.6.azurestaticapps.net)  
 
 ## 🧩 Features
 
